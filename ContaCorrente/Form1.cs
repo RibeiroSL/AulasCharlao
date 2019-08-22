@@ -51,21 +51,21 @@ namespace ClasseConta
         {
             x.setConta(Convert.ToInt32(textBox1.Text));
             x.setNome(textBox2.Text);
-            x.setSaldo(Convert.ToInt32(textBox3.Text));
-            MessageBox.Show("Cadastro realizado com sucesso");
+            x.setSaldo(Convert.ToDouble(textBox3.Text));
+            MessageBox.Show("Cadastro de " + x.getNome() + " realizado com sucesso");
 
         }
 
         private void Button2_Click(object sender, EventArgs e)
         {
             if (radioButton1.Checked){
-                x.credita(Convert.ToInt32(textBox4.Text));
-                MessageBox.Show("Crédito de " + textBox4.Text + " Reais " + " realizado com sucesso");
+                x.credita(Convert.ToDouble(textBox4.Text));
+                MessageBox.Show("Crédito de " + textBox4.Text + " Reais realizado com sucesso");
             }
             else if (radioButton2.Checked)
             {
-                x.debita(Convert.ToInt32(textBox4.Text));
-                MessageBox.Show("Débito de " + textBox4.Text + " Reais " + " realizado com sucesso");
+                x.debita(Convert.ToDouble(textBox4.Text));
+                MessageBox.Show("Débito de " + textBox4.Text + " Reais realizado com sucesso");
 
             }
         }
