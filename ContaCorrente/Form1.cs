@@ -74,5 +74,10 @@ namespace ClasseConta
         {
             MessageBox.Show("Saldo na conta de " + x.getNome() + " é " + Convert.ToString(x.getSaldo()) + " Reais ");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

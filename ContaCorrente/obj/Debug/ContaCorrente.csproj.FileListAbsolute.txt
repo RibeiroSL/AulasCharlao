@@ -8,3 +8,13 @@ C:\Users\sl_ki\source\repos\AulasCharlao4\ContaCorrente\obj\Debug\ContaCorrente.
 C:\Users\sl_ki\source\repos\AulasCharlao4\ContaCorrente\obj\Debug\ContaCorrente.csproj.CoreCompileInputs.cache
 C:\Users\sl_ki\source\repos\AulasCharlao4\ContaCorrente\obj\Debug\ContaCorrente.exe
 C:\Users\sl_ki\source\repos\AulasCharlao4\ContaCorrente\obj\Debug\ContaCorrente.pdb
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\bin\Debug\ContaCorrente.exe.config
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\bin\Debug\ContaCorrente.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\bin\Debug\ContaCorrente.pdb
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ContaCorrente.csprojAssemblyReference.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ClasseConta.Form1.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ContaCorrente.Properties.Resources.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ContaCorrente.csproj.GenerateResource.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ContaCorrente.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\ContaCorrente\obj\Debug\ContaCorrente.pdb
