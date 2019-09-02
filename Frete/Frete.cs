@@ -47,7 +47,7 @@ namespace Frete
             {
                 v = (v + (0.1 * v));
             }
-            else if (v < 5000)
+            else if (v > 5000)
             {
                 v = (v + (0.15 * v));
             }

@@ -1,0 +1,10 @@
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.csprojAssemblyReference.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.Form1.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.Properties.Resources.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.csproj.GenerateResource.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\bin\Debug\INSS.exe.config
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\bin\Debug\INSS.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\bin\Debug\INSS.pdb
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\INSS\obj\Debug\INSS.pdb
