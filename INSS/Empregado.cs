@@ -19,7 +19,7 @@ namespace INSS
         {
             return salario;
         }
-        public void setmatricula(string m)
+        public void setMatricula(string m)
         {
             matricula = m;
         }
