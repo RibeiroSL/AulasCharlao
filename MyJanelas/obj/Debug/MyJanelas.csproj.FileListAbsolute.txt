@@ -1,0 +1,11 @@
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\bin\Debug\MyJanelas.exe.config
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\bin\Debug\MyJanelas.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\bin\Debug\MyJanelas.pdb
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.csprojAssemblyReference.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.Form1.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.Form2.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.Properties.Resources.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.csproj.GenerateResource.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.csproj.CoreCompileInputs.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\MyJanelas\obj\Debug\MyJanelas.pdb

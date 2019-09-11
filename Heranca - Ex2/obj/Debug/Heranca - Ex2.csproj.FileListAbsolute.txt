@@ -1,0 +1,10 @@
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca - Ex2.csprojAssemblyReference.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca___Ex2.Form1.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca___Ex2.Properties.Resources.resources
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca - Ex2.csproj.GenerateResource.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca - Ex2.csproj.CoreCompileInputs.cache
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\bin\Debug\Heranca - Ex2.exe.config
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\bin\Debug\Heranca - Ex2.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\bin\Debug\Heranca - Ex2.pdb
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca - Ex2.exe
+C:\Users\sl_ki\source\repos\AulasCharlao\Heranca - Ex2\obj\Debug\Heranca - Ex2.pdb

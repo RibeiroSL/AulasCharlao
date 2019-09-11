@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frete", "Frete\Frete.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INSS", "INSS\INSS.csproj", "{86A8DD58-164A-42D3-878A-9F8E7B18C466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Ex2", "Heranca - Ex2\Heranca - Ex2.csproj", "{0C417CF7-DF21-44A4-A44E-6B5C877059F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJanelas", "MyJanelas\MyJanelas.csproj", "{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{86A8DD58-164A-42D3-878A-9F8E7B18C466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A8DD58-164A-42D3-878A-9F8E7B18C466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A8DD58-164A-42D3-878A-9F8E7B18C466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C417CF7-DF21-44A4-A44E-6B5C877059F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C417CF7-DF21-44A4-A44E-6B5C877059F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C417CF7-DF21-44A4-A44E-6B5C877059F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C417CF7-DF21-44A4-A44E-6B5C877059F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
