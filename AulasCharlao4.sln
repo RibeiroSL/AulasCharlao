@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Ex2", "Heranca - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJanelas", "MyJanelas\MyJanelas.csproj", "{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoMistica", "ProjetoMistica\ProjetoMistica.csproj", "{7E9D5680-7C69-42DC-A494-6067F239C873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9B3C68-52C3-4A9F-8841-1900A2A89AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9D5680-7C69-42DC-A494-6067F239C873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9D5680-7C69-42DC-A494-6067F239C873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9D5680-7C69-42DC-A494-6067F239C873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9D5680-7C69-42DC-A494-6067F239C873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
